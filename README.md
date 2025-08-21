@@ -14,7 +14,7 @@
 
 ---
 
-### <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnZsOXljNTQybGtsN2dic3o5b2JuMmE4c3k4bHp2NTZ4bTUybXE3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NOqIakjH3m58oUDjwT/giphy.gif" width="70"> A little more about me...<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDB0bDN0Z2VmcnZhZG9jY2ZyZmF1NHFsZ2t5ZzlvaGlidXdkbXU5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SYNazVYUqpCxY1HLHf/giphy.gif" width="80">
+### <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW10NzV3b3drajBxZTZmNXVicDc2YjlwNmtlYWJpOGhycjV4NGIzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5KCXDVmBcTL8gpOO5C/giphy.gif" width="70"> A little more about me...<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGd3MXQ4YnZldnM5dmNmMjRldXB0MXVoYTJyeGprMWc5ZXJzZTlxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/amSNX7COfkXWEIQBsz/giphy.gif" width="80">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=etuna101&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
